@@ -4,6 +4,5 @@
     <!-- Example link -->
     <xacro:include filename="properties.xacro"/>
     <xacro:include filename="robot_core.xacro"/>
-    <xacro:include filename="inertial_macros.xacro"/>
 
 </robot>
