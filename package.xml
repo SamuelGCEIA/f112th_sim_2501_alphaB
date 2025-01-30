@@ -4,7 +4,7 @@
   <name>f112th_sim_2501_alphaB</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="samuel.garcia@eia.edu.co">MY NAMES</maintainer>
+  <maintainer email="samuel.garcia@eia.edu.co">SamuelGCEIA</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
