@@ -39,7 +39,7 @@
                         <samples>360</samples>
 												<!--resolution>: this number is multiplied by samples to determine the number range data points.-->
                         <resolution>1</resolution>
-						<min_angle>-3.14</min_angle>
+							          <min_angle>-3.14</min_angle>
                         <max_angle>3.14</max_angle>
                     </horizontal>
                 </scan>
