@@ -37,10 +37,5 @@ install(
   DESTINATION share/${PROJECT_NAME}
 )
 
-install(PROGRAMS
-  scripts/ldr_cntrl.py
-  DESTINATION lib/${PROJECT_NAME}
-)
-
 ament_package()
 
